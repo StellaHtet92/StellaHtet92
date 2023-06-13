@@ -1,5 +1,5 @@
-### Hi there 👋
-Hello, I'm Htet Yamin Ko Ko, a doctoral student and part-time research assistant with a passion for data science and biomedical research. With a background in Computer Engineering and Information Technology, I have dedicated my academic journey to exploring the exciting intersection of technology, geospatial, and healthcare.
+### Hello 👋
+I'm Htet Yamin Ko Ko, a doctoral student and part-time research assistant with a passion for data science and biomedical research. With a background in Computer Engineering and Information Technology, I have dedicated my academic journey to exploring the exciting intersection of technology, geospatial, and healthcare.
 
 - 😄 I'm a Data Science Enthusiastic, willing to become for MLOps Engineer
 
